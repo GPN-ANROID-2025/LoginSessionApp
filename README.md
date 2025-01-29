@@ -1,5 +1,4 @@
-# LoginSessionApp
-Here’s the updated **README.md** without Git commands and Intent Filter:  
+# Day 10 : LoginSessionApp
 
 ```markdown
 # Android Development Notes
